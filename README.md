@@ -1,1 +1,1 @@
-This is a si,ple console based Python calculator.
+This is a simple console based Python calculator.
